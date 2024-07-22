@@ -1,29 +1,17 @@
-# my-vue-app
+# Documentation pour exécuter le projet localement
 
-## Project setup
-```
-yarn install
-```
+## Prérequis
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Avant de lancer le projet, assurez-vous d'avoir installé les logiciels suivants sur votre machine locale :
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- **Node.js** : La version recommandée est la dernière version LTS. Vous pouvez la télécharger depuis [nodejs.org](https://nodejs.org/).
+- **Yarn** : Un gestionnaire de paquets que vous pouvez installer en suivant les instructions sur [le site de Yarn](https://classic.yarnpkg.com/en/docs/install/).
 
-### Run your unit tests
-```
-yarn test:unit
-```
+## Cloner le Référentiel
 
-### Lints and fixes files
-```
-yarn lint
-```
+Commencez par cloner le référentiel du projet sur votre machine locale. Ouvrez votre terminal et exécutez :
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```sh
+git clone https://github.com/your-username/your-repository.git
+
+
