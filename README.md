@@ -19,7 +19,7 @@ git clone https://github.com/angelix009/my-vue-app.git
 Naviguez jusqu'au répertoire du projet :
 
 ```sh
-cd your-repository
+cd my-vue-app
 
 ```
 ```sh
