@@ -38,4 +38,16 @@ yarn serve
 
 Cela démarrera un serveur de développement local et ouvrira le projet dans votre navigateur web par défaut. L'URL par défaut est généralement http://localhost:8080.
 
+## Exécuter les Tests
+
+Pour exécuter les tests unitaires du projet, utilisez :
+
+```sh
+yarn test
+
+```
+
+Cette commande exécute tous les tests définis dans le répertoire tests. Assurez-vous que vos tests fonctionnent comme prévu avant de déployer des modifications.
+
+
 
