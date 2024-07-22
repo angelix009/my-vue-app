@@ -12,6 +12,30 @@ Avant de lancer le projet, assurez-vous d'avoir installé les logiciels suivants
 Commencez par cloner le référentiel du projet sur votre machine locale. Ouvrez votre terminal et exécutez :
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/angelix009/my-vue-app.git
+```
+## Installer les Dépendances
+
+Naviguez jusqu'au répertoire du projet :
+
+```sh
+cd your-repository
+
+```
+```sh
+yarn install
+
+```
+
+Cela téléchargera toutes les dépendances requises définies dans votre fichier package.json.
+
+## Lancer le Serveur de Développement
+Pour démarrer le serveur de développement et voir le projet localement, exécutez :
+```sh
+yarn serve
+
+```
+
+Cela démarrera un serveur de développement local et ouvrira le projet dans votre navigateur web par défaut. L'URL par défaut est généralement http://localhost:8080.
 
 
