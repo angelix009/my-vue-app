@@ -47,7 +47,6 @@ yarn test
 
 ```
 
-Cette commande exécute tous les tests définis dans le répertoire tests. Assurez-vous que vos tests fonctionnent comme prévu avant de déployer des modifications.
-
+Cette commande exécute tous les tests définis dans le répertoire tests. 
 
 
